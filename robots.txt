@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://besrourms.github.io/sitemap.xml
