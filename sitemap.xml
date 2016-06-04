@@ -4,4 +4,24 @@
     <changefreq>monthly</changefreq>
     <priority>1.00</priority>
   </url>
+  <url>
+    <loc>http://besrourms.github.io/Djerba-Airport/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.90</priority>
+  </url>
+  <url>
+    <loc>http://besrourms.github.io/TND-to-Bitcoin-Converter/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://besrourms.github.io/magazine/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.70</priority>
+  </url>
+  <url>
+    <loc>http://besrourms.github.io/Identity/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.60</priority>
+  </url>
 </urlset>
