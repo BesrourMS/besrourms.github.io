@@ -204,6 +204,9 @@ p {
 .bitcoin{
 	color : #F7931A;
 }
+.instagram{
+	color : #E4405F;
+}
 @media screen and (min-aspect-ratio: 4/3) {
     body {
         background-size: 100% auto;
